@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "p001",
+    "label": "Happy Hour > Tatlı & Kahve",
+    "kind": "main",
+    "raw": "₺490",
+    "slug": null,
+    "dual": false,
+    "value": 490
+  },
+  {
+    "id": "p002",
+    "label": "Happy Hour > Şişe Şarap & Şarküteri / Peynir Tabağı",
+    "kind": "main",
+    "raw": "₺1.900",
+    "slug": null,
+    "dual": false,
+    "value": 1900
+  },
+  {
+    "id": "p003",
+    "label": "Happy Hour > Pizza & Şişe Şarap",
+    "kind": "main",
+    "raw": "₺1.990",
+    "slug": null,
+    "dual": false,
+    "value": 1990
+  },
+  {
+    "id": "p004",
+    "label": "Happy Hour > 2 Bira & Crispy Chicken",
+    "kind": "main",
+    "raw": "₺1.100",
+    "slug": null,
+    "dual": false,
+    "value": 1100
+  },
+  {
+    "id": "p005",
+    "label": "Happy Hour > Bira",
+    "kind": "main",
+    "raw": "₺250",
+    "slug": null,
+    "dual": false,
+    "value": 250
+  },
+  {
+    "id": "p006",
+    "label": "Başlangıçlar > Şarküteri Tabağı",
+    "kind": "main",
+    "raw": "₺790",
+    "slug": "sarkuteri",
+    "dual": false,
+    "value": 790
+  },
+  {
+    "id": "p007",
+    "label": "Başlangıçlar > Crispy Chicken",
+    "kind": "main",
+    "raw": "₺590",
+    "slug": "crispy",
+    "dual": false,
+    "value": 590
+  },
+  {
+    "id": "p008",
+    "label": "Başlangıçlar > Bira Tabağı (2 Kişilik)",
+    "kind": "main",
+    "raw": "₺850",
+    "slug": null,
+    "dual": false,
+    "value": 850
+  },
+  {
+    "id": "p009",
+    "label": "Burger & Nachos > House Smash Burger",
+    "kind": "main",
+    "raw": "₺510",
+    "slug": "smash",
+    "dual": false,
+    "value": 510
+  },
+  {
+    "id": "p010",
+    "label": "Burger & Nachos > Mini Burger Trio",
+    "kind": "main",
+    "raw": "₺620",
+    "slug": "minitrio",
+    "dual": false,
+    "value": 620
+  },
+  {
+    "id": "p011",
+    "label": "Burger & Nachos > Dana Kıymalı Nachos",
+    "kind": "main",
+    "raw": "₺530",
+    "slug": "nachos",
+    "dual": false,
+    "value": 530
+  },
+  {
+    "id": "p012",
+    "label": "Burger & Nachos > Nachos (kıymasız)",
+    "kind": "main",
+    "raw": "₺420",
+    "slug": null,
+    "dual": false,
+    "value": 420
+  },
+  {
+    "id": "p013",
+    "label": "Izgara > Izgara Tavuk & Sebze Sote",
+    "kind": "main",
+    "raw": "₺620",
+    "slug": "tavukizg",
+    "dual": false,
+    "value": 620
+  },
+  {
+    "id": "p014",
+    "label": "Izgara > Izgara Köfte & Sebze Sote",
+    "kind": "main",
+    "raw": "₺680",
+    "slug": "kofte",
+    "dual": false,
+    "value": 680
+  },
+  {
+    "id": "p015",
+    "label": "Makarna & Fırın > Pizza Margherita",
+    "kind": "main",
+    "raw": "₺540",
+    "slug": "pizza",
+    "dual": false,
+    "value": 540
+  },
+  {
+    "id": "p016",
+    "label": "Makarna & Fırın > Pizza Şarküteri",
+    "kind": "main",
+    "raw": "₺620",
+    "slug": "pizzasark",
+    "dual": false,
+    "value": 620
+  },
+  {
+    "id": "p017",
+    "label": "Makarna & Fırın > Tavuklu Kremalı Linguine",
+    "kind": "main",
+    "raw": "₺650",
+    "slug": "linguine",
+    "dual": false,
+    "value": 650
+  },
+  {
+    "id": "p018",
+    "label": "Makarna & Fırın > Lazanya",
+    "kind": "main",
+    "raw": "₺670",
+    "slug": "lazanya",
+    "dual": false,
+    "value": 670
+  },
+  {
+    "id": "p019",
+    "label": "Makarna & Fırın > Bolonez Soslu Makarna",
+    "kind": "main",
+    "raw": "₺660",
+    "slug": null,
+    "dual": false,
+    "value": 660
+  },
+  {
+    "id": "p020",
+    "label": "Makarna & Fırın > Bolonez Soslu Pizza",
+    "kind": "main",
+    "raw": "₺620",
+    "slug": null,
+    "dual": false,
+    "value": 620
+  },
+  {
+    "id": "p021",
+    "label": "Tatlılar > Cup Tiramisu",
+    "kind": "main",
+    "raw": "₺420",
+    "slug": "tiramisu",
+    "dual": false,
+    "value": 420
+  },
+  {
+    "id": "p022",
+    "label": "Tatlılar > Lotus Muhallebi",
+    "kind": "main",
+    "raw": "₺360",
+    "slug": "lotus",
+    "dual": false,
+    "value": 360
+  },
+  {
+    "id": "p023",
+    "label": "Tatlılar > Limon Soslu Cup",
+    "kind": "main",
+    "raw": "₺320",
+    "slug": "muffin",
+    "dual": false,
+    "value": 320
+  },
+  {
+    "id": "p024",
+    "label": "Tatlılar > Brownie",
+    "kind": "main",
+    "raw": "₺300",
+    "slug": "brownie",
+    "dual": false,
+    "value": 300
+  },
+  {
+    "id": "p025",
+    "label": "Tatlılar > Cookie",
+    "kind": "main",
+    "raw": "₺200",
+    "slug": "cookie",
+    "dual": false,
+    "value": 200
+  },
+  {
+    "id": "p026",
+    "label": "İçecekler > Soft İçecekler > Coca-Cola 330ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p027",
+    "label": "İçecekler > Soft İçecekler > Coca-Cola Zero 330ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p028",
+    "label": "İçecekler > Soft İçecekler > Fanta 330ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p029",
+    "label": "İçecekler > Soft İçecekler > Sprite 330ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p030",
+    "label": "İçecekler > Soft İçecekler > Cappy Karışık Meyve 250ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p031",
+    "label": "İçecekler > Soft İçecekler > Cappy Şeftalili 250ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p032",
+    "label": "İçecekler > Soft İçecekler > Fusetea Limonlu 250ml",
+    "kind": "main",
+    "raw": "₺150",
+    "slug": null,
+    "dual": false,
+    "value": 150
+  },
+  {
+    "id": "p033",
+    "label": "İçecekler > Soft İçecekler > Portakal Suyu",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": "portakal_suyu",
+    "dual": false,
+    "value": 240
+  },
+  {
+    "id": "p034",
+    "label": "İçecekler > Soft İçecekler > Limonata",
+    "kind": "main",
+    "raw": "₺200",
+    "slug": null,
+    "dual": false,
+    "value": 200
+  },
+  {
+    "id": "p035",
+    "label": "İçecekler > Soft İçecekler > Monster",
+    "kind": "main",
+    "raw": "₺220",
+    "slug": null,
+    "dual": false,
+    "value": 220
+  },
+  {
+    "id": "p036",
+    "label": "İçecekler > Soft İçecekler > Su",
+    "kind": "main",
+    "raw": "₺100",
+    "slug": null,
+    "dual": false,
+    "value": 100
+  },
+  {
+    "id": "p037",
+    "label": "İçecekler > Soft İçecekler > S.Pellegrino (Mineralli Su)",
+    "kind": "main",
+    "raw": "₺200",
+    "slug": null,
+    "dual": false,
+    "value": 200
+  },
+  {
+    "id": "p038",
+    "label": "İçecekler > Soft İçecekler > Thomas Henry Tonic",
+    "kind": "main",
+    "raw": "₺170",
+    "slug": null,
+    "dual": false,
+    "value": 170
+  },
+  {
+    "id": "p039",
+    "label": "İçecekler > Soft İçecekler > Thomas Henry Dry Tonic",
+    "kind": "main",
+    "raw": "₺170",
+    "slug": null,
+    "dual": false,
+    "value": 170
+  },
+  {
+    "id": "p040",
+    "label": "İçecekler > Soft İçecekler > Kavaklıdere Şalgam (Acılı/Acısız) 1LT",
+    "kind": "main",
+    "raw": "₺200",
+    "slug": null,
+    "dual": false,
+    "value": 200
+  },
+  {
+    "id": "p041",
+    "label": "İçecekler > Espresso / Ice",
+    "kind": "main",
+    "raw": "₺140 / ₺180",
+    "slug": null,
+    "dual": true,
+    "values": [
+      140,
+      180
+    ]
+  },
+  {
+    "id": "p042",
+    "label": "İçecekler > Sıcak İçecekler > Americano / Ice",
+    "kind": "main",
+    "raw": "₺230",
+    "slug": null,
+    "dual": false,
+    "value": 230
+  },
+  {
+    "id": "p043",
+    "label": "İçecekler > Sıcak İçecekler > Latte / Ice",
+    "kind": "main",
+    "raw": "₺250",
+    "slug": null,
+    "dual": false,
+    "value": 250
+  },
+  {
+    "id": "p044",
+    "label": "İçecekler > Sıcak İçecekler > Flat White / Ice",
+    "kind": "main",
+    "raw": "₺250",
+    "slug": null,
+    "dual": false,
+    "value": 250
+  },
+  {
+    "id": "p045",
+    "label": "İçecekler > Sıcak İçecekler > Cortado / Ice",
+    "kind": "main",
+    "raw": "₺220",
+    "slug": null,
+    "dual": false,
+    "value": 220
+  },
+  {
+    "id": "p046",
+    "label": "İçecekler > Sıcak İçecekler > Cappuccino / Ice",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": null,
+    "dual": false,
+    "value": 240
+  },
+  {
+    "id": "p047",
+    "label": "İçecekler > Sıcak İçecekler > Caramel Latte / Ice",
+    "kind": "main",
+    "raw": "₺270",
+    "slug": null,
+    "dual": false,
+    "value": 270
+  },
+  {
+    "id": "p048",
+    "label": "İçecekler > Sıcak İçecekler > Matcha Latte / Ice",
+    "kind": "main",
+    "raw": "₺270",
+    "slug": null,
+    "dual": false,
+    "value": 270
+  },
+  {
+    "id": "p049",
+    "label": "İçecekler > Sıcak İçecekler > Çilekli Matcha Latte / Ice",
+    "kind": "main",
+    "raw": "₺285",
+    "slug": null,
+    "dual": false,
+    "value": 285
+  },
+  {
+    "id": "p050",
+    "label": "İçecekler > Sıcak İçecekler > Türk Kahvesi",
+    "kind": "main",
+    "raw": "₺180",
+    "slug": null,
+    "dual": false,
+    "value": 180
+  },
+  {
+    "id": "p051",
+    "label": "İçecekler > Sıcak İçecekler > Çay",
+    "kind": "main",
+    "raw": "₺75",
+    "slug": null,
+    "dual": false,
+    "value": 75
+  },
+  {
+    "id": "p052",
+    "label": "İçecekler > Biralar > Efes Lager+ Green 50cl",
+    "kind": "main",
+    "raw": "₺300",
+    "slug": null,
+    "dual": false,
+    "value": 300
+  },
+  {
+    "id": "p053",
+    "label": "İçecekler > Biralar > Efes Lager+ Malt 50cl",
+    "kind": "main",
+    "raw": "₺300",
+    "slug": null,
+    "dual": false,
+    "value": 300
+  },
+  {
+    "id": "p054",
+    "label": "İçecekler > Biralar > Efes Lager+ Pilsen 50cl",
+    "kind": "main",
+    "raw": "₺300",
+    "slug": null,
+    "dual": false,
+    "value": 300
+  },
+  {
+    "id": "p055",
+    "label": "İçecekler > Biralar > Bomonti Filtresiz 50cl",
+    "kind": "main",
+    "raw": "₺350",
+    "slug": null,
+    "dual": false,
+    "value": 350
+  },
+  {
+    "id": "p056",
+    "label": "İçecekler > Biralar > Belfast Premium Irish Lager 50cl",
+    "kind": "main",
+    "raw": "₺350",
+    "slug": null,
+    "dual": false,
+    "value": 350
+  },
+  {
+    "id": "p057",
+    "label": "İçecekler > Biralar > Bud 50cl",
+    "kind": "main",
+    "raw": "₺350",
+    "slug": null,
+    "dual": false,
+    "value": 350
+  },
+  {
+    "id": "p058",
+    "label": "İçecekler > Biralar > Becks 50cl",
+    "kind": "main",
+    "raw": "₺350",
+    "slug": null,
+    "dual": false,
+    "value": 350
+  },
+  {
+    "id": "p059",
+    "label": "İçecekler > Biralar > Stella Artois 44cl",
+    "kind": "main",
+    "raw": "₺380",
+    "slug": null,
+    "dual": false,
+    "value": 380
+  },
+  {
+    "id": "p060",
+    "label": "İçecekler > Şaraplar & Köpüklü > Vinkara Quatro Kadeh",
+    "kind": "main",
+    "raw": "₺460",
+    "slug": null,
+    "dual": false,
+    "value": 460
+  },
+  {
+    "id": "p061",
+    "label": "İçecekler > Şaraplar & Köpüklü > Kadeh Köpüklü",
+    "kind": "main",
+    "raw": "₺560",
+    "slug": null,
+    "dual": false,
+    "value": 560
+  },
+  {
+    "id": "p062",
+    "label": "İçecekler > Şaraplar & Köpüklü > Kadeh Prosecco",
+    "kind": "main",
+    "raw": "₺650",
+    "slug": null,
+    "dual": false,
+    "value": 650
+  },
+  {
+    "id": "p063",
+    "label": "İçecekler > Şaraplar & Köpüklü > Vinkara Quatro (Şişe)",
+    "kind": "main",
+    "raw": "₺1.700",
+    "slug": null,
+    "dual": false,
+    "value": 1700
+  },
+  {
+    "id": "p064",
+    "label": "İçecekler > Şaraplar & Köpüklü > Vinkara Atelier (Şişe)",
+    "kind": "main",
+    "raw": "₺2.100",
+    "slug": null,
+    "dual": false,
+    "value": 2100
+  },
+  {
+    "id": "p065",
+    "label": "İçecekler > Şaraplar & Köpüklü > Frizzante Serena (Şişe)",
+    "kind": "main",
+    "raw": "₺1.900",
+    "slug": null,
+    "dual": false,
+    "value": 1900
+  },
+  {
+    "id": "p066",
+    "label": "İçecekler > Şaraplar & Köpüklü > Prosecco (Şişe)",
+    "kind": "main",
+    "raw": "₺2.600",
+    "slug": null,
+    "dual": false,
+    "value": 2600
+  },
+  {
+    "id": "p067",
+    "label": "İçecekler > Şaraplar & Köpüklü > Vinkara Bornova Misketi (Dömi-Sek)",
+    "kind": "main",
+    "raw": "₺2.250",
+    "slug": null,
+    "dual": false,
+    "value": 2250
+  },
+  {
+    "id": "p068",
+    "label": "İçecekler > Jameson",
+    "kind": "main",
+    "raw": "₺550 / ₺800",
+    "slug": null,
+    "dual": true,
+    "values": [
+      550,
+      800
+    ]
+  },
+  {
+    "id": "p069",
+    "label": "İçecekler > Chivas Smooth & Smoky Extra",
+    "kind": "main",
+    "raw": "₺650 / ₺900",
+    "slug": null,
+    "dual": true,
+    "values": [
+      650,
+      900
+    ]
+  },
+  {
+    "id": "p070",
+    "label": "İçecekler > Chivas 12",
+    "kind": "main",
+    "raw": "₺600 / ₺850",
+    "slug": null,
+    "dual": true,
+    "values": [
+      600,
+      850
+    ]
+  },
+  {
+    "id": "p071",
+    "label": "İçecekler > Malfy",
+    "kind": "main",
+    "raw": "₺600 / ₺900",
+    "slug": null,
+    "dual": true,
+    "values": [
+      600,
+      900
+    ]
+  },
+  {
+    "id": "p072",
+    "label": "İçecekler > Illusionist",
+    "kind": "main",
+    "raw": "₺700 / ₺1.000",
+    "slug": null,
+    "dual": true,
+    "values": [
+      700,
+      1000
+    ]
+  },
+  {
+    "id": "p073",
+    "label": "İçecekler > Beefeater Pink Gin",
+    "kind": "main",
+    "raw": "₺600 / ₺850",
+    "slug": null,
+    "dual": true,
+    "values": [
+      600,
+      850
+    ]
+  },
+  {
+    "id": "p074",
+    "label": "İçecekler > Havana Club Añejo 7yr Rum",
+    "kind": "main",
+    "raw": "₺550 / ₺700",
+    "slug": null,
+    "dual": true,
+    "values": [
+      550,
+      700
+    ]
+  },
+  {
+    "id": "p075",
+    "label": "İçecekler > Yeni Rakı",
+    "kind": "main",
+    "raw": "₺250 / ₺480",
+    "slug": null,
+    "dual": true,
+    "values": [
+      250,
+      480
+    ]
+  },
+  {
+    "id": "p076",
+    "label": "İçecekler > Shot > Shot",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p077",
+    "label": "İçecekler > Shot > Jägermeister Orange",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": "jager_orange",
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p078",
+    "label": "İçecekler > Shot > Jägermeister",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": "jager",
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p079",
+    "label": "İçecekler > Shot > Codigo 1530 Blanco",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p080",
+    "label": "İçecekler > Shot > Codigo 1530 Reposado",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p081",
+    "label": "İçecekler > Shot > Codigo 1530 Rosa",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p082",
+    "label": "İçecekler > Shot > Olmeca Altos Plata",
+    "kind": "main",
+    "raw": "₺500",
+    "slug": null,
+    "dual": false,
+    "value": 500
+  },
+  {
+    "id": "p083",
+    "label": "İçecekler > Shot > Olmeca Altos Reposado",
+    "kind": "main",
+    "raw": "₺500",
+    "slug": null,
+    "dual": false,
+    "value": 500
+  },
+  {
+    "id": "p084",
+    "label": "İçecekler > Shot > Jameson",
+    "kind": "main",
+    "raw": "₺500",
+    "slug": null,
+    "dual": false,
+    "value": 500
+  },
+  {
+    "id": "p085",
+    "label": "İçecekler > Shot > Chivas 12 Extra Smoky",
+    "kind": "main",
+    "raw": "₺500",
+    "slug": null,
+    "dual": false,
+    "value": 500
+  },
+  {
+    "id": "p086",
+    "label": "İçecekler > Shot > Havana Club 3 Añejo Rum",
+    "kind": "main",
+    "raw": "₺450",
+    "slug": null,
+    "dual": false,
+    "value": 450
+  },
+  {
+    "id": "p087",
+    "label": "İçecekler > Shot > Malibu",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400
+  },
+  {
+    "id": "p088",
+    "label": "İçecekler > İmza Kokteyller > Kuzukulağı",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "kuzukulagi",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p089",
+    "label": "İçecekler > İmza Kokteyller > Golden Hour",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "golden_hour",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p090",
+    "label": "İçecekler > İmza Kokteyller > Lolipop",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "lolipop",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p091",
+    "label": "İçecekler > İmza Kokteyller > Bergamotto",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "vasilikos",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p092",
+    "label": "İçecekler > İmza Kokteyller > Number 1882",
+    "kind": "main",
+    "raw": "₺850",
+    "slug": "ilyosta",
+    "dual": false,
+    "value": 850
+  },
+  {
+    "id": "p093",
+    "label": "İçecekler > İmza Kokteyller > House Porn Star Martini",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "pornstar",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p094",
+    "label": "İçecekler > İmza Kokteyller > Mango-Chilli Tekila & Mezcal Margarita",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "mango_chilli_margarita",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p095",
+    "label": "İçecekler > İmza Kokteyller > Once Upon a Time in Konak1882",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": "melina",
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p096",
+    "label": "İçecekler > İmza Kokteyller > Fresh Moment",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": null,
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p097",
+    "label": "İçecekler > İmza Kokteyller > Ahududu Dilleri",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": null,
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p098",
+    "label": "İçecekler > İmza Kokteyller > Smoky-Vanilla",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": null,
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p099",
+    "label": "İçecekler > İmza Kokteyller > Chilli-Passion Margarita",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": null,
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p100",
+    "label": "İçecekler > İmza Kokteyller > Rosa Paloma",
+    "kind": "main",
+    "raw": "₺900",
+    "slug": null,
+    "dual": false,
+    "value": 900
+  },
+  {
+    "id": "p101",
+    "label": "İçecekler > İmza Kokteyller > Ranch Water",
+    "kind": "main",
+    "raw": "₺900",
+    "slug": null,
+    "dual": false,
+    "value": 900
+  },
+  {
+    "id": "p102",
+    "label": "İçecekler > İmza Kokteyller > Creamy Espresso Martini",
+    "kind": "main",
+    "raw": "₺770",
+    "slug": null,
+    "dual": false,
+    "value": 770
+  },
+  {
+    "id": "p103",
+    "label": "İçecekler > Spritz > Bergamot Spritz",
+    "kind": "main",
+    "raw": "₺700",
+    "slug": "italicus_spritz",
+    "dual": false,
+    "value": 700
+  },
+  {
+    "id": "p104",
+    "label": "İçecekler > Spritz > Athenian Spritz",
+    "kind": "main",
+    "raw": "₺700",
+    "slug": "athenian_spritz",
+    "dual": false,
+    "value": 700
+  },
+  {
+    "id": "p105",
+    "label": "İçecekler > Spritz > Elderflower Spritz",
+    "kind": "main",
+    "raw": "₺750",
+    "slug": "elderflower_spritz",
+    "dual": false,
+    "value": 750
+  },
+  {
+    "id": "p106",
+    "label": "İçecekler > Spritz > Gatsby Spritz",
+    "kind": "main",
+    "raw": "₺700",
+    "slug": "lady",
+    "dual": false,
+    "value": 700
+  },
+  {
+    "id": "p107",
+    "label": "İçecekler > Spritz > Aperol Spritz",
+    "kind": "main",
+    "raw": "₺800",
+    "slug": null,
+    "dual": false,
+    "value": 800
+  },
+  {
+    "id": "p108",
+    "label": "İçecekler > Espresso Martini",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "espresso_martini",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p109",
+    "label": "İçecekler > Viski Sour",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "viski_sour",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p110",
+    "label": "İçecekler > Tommy's Margarita",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "tommys_margarita",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p111",
+    "label": "İçecekler > Gin & Tonic / Soda",
+    "kind": "main",
+    "raw": "₺800",
+    "slug": "gin_tonic",
+    "dual": false,
+    "value": 800
+  },
+  {
+    "id": "p112",
+    "label": "İçecekler > Daiquiri",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "daiquiri",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p113",
+    "label": "İçecekler > Old Fashioned",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "old_fashioned",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p114",
+    "label": "İçecekler > Mojito",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "mojito",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p115",
+    "label": "İçecekler > Mimosa",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "mimosa",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p116",
+    "label": "İçecekler > Negroni",
+    "kind": "main",
+    "raw": "₺800",
+    "slug": "negroni",
+    "dual": false,
+    "value": 800
+  },
+  {
+    "id": "p117",
+    "label": "İçecekler > Martini",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "martini",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p118",
+    "label": "İçecekler > Bloody Mary",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "bloody_mary",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p119",
+    "label": "İçecekler > Gin Basil Smash",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": "gin_basil_smash",
+    "dual": false,
+    "value": 720
+  },
+  {
+    "id": "p120",
+    "label": "Mezeler > Cunda Lorlu Girit Ezme",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p121",
+    "label": "Mezeler > Zeytin & Ezine Beyaz Peynir",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p122",
+    "label": "Mezeler > Atom",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p123",
+    "label": "Mezeler > Ekşili Erikli Cacık",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p124",
+    "label": "Mezeler > Antibiyotik",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p125",
+    "label": "Mezeler > Havuç Tarator",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p126",
+    "label": "Mezeler > Köpoğlu",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280
+  },
+  {
+    "id": "p127",
+    "label": "Mezeler > Triokafrei",
+    "kind": "main",
+    "raw": "₺320",
+    "slug": null,
+    "dual": false,
+    "value": 320
+  },
+  {
+    "id": "p128",
+    "label": "Mezeler > Karışık Meze Tabağı",
+    "kind": "main",
+    "raw": "₺950",
+    "slug": null,
+    "dual": false,
+    "value": 950
+  },
+  {
+    "id": "p129",
+    "label": "Ara Sıcaklar > Mantar Kaşar",
+    "kind": "main",
+    "raw": "₺500",
+    "slug": null,
+    "dual": false,
+    "value": 500
+  },
+  {
+    "id": "p130",
+    "label": "Ara Sıcaklar > Güveç Mantar",
+    "kind": "main",
+    "raw": "₺600",
+    "slug": null,
+    "dual": false,
+    "value": 600
+  },
+  {
+    "id": "p131",
+    "label": "Ara Sıcaklar > Paçanga Böreği",
+    "kind": "main",
+    "raw": "₺250",
+    "slug": null,
+    "dual": false,
+    "value": 250
+  },
+  {
+    "id": "p132",
+    "label": "Ara Sıcaklar > Kalamar Tava",
+    "kind": "main",
+    "raw": "₺850",
+    "slug": null,
+    "dual": false,
+    "value": 850
+  },
+  {
+    "id": "p133",
+    "label": "Ara Sıcaklar > Tereyağlı Karides",
+    "kind": "main",
+    "raw": "₺950",
+    "slug": null,
+    "dual": false,
+    "value": 950
+  },
+  {
+    "id": "p134",
+    "label": "Ara Sıcaklar > Humus Pastırmalı",
+    "kind": "main",
+    "raw": "₺750",
+    "slug": null,
+    "dual": false,
+    "value": 750
+  },
+  {
+    "id": "p135",
+    "label": "Ara Sıcaklar > Ciğer",
+    "kind": "main",
+    "raw": "₺950",
+    "slug": null,
+    "dual": false,
+    "value": 950
+  },
+  {
+    "id": "p136",
+    "label": "Ana Yemekler > Levrek Izgara",
+    "kind": "main",
+    "raw": "₺950",
+    "slug": null,
+    "dual": false,
+    "value": 950
+  },
+  {
+    "id": "p137",
+    "label": "Ana Yemekler > Çipra Izgara",
+    "kind": "main",
+    "raw": "₺950",
+    "slug": null,
+    "dual": false,
+    "value": 950
+  },
+  {
+    "id": "p138",
+    "label": "Ana Yemekler > Hamsi veya Sardalya Tava",
+    "kind": "main",
+    "raw": "₺850",
+    "slug": null,
+    "dual": false,
+    "value": 850
+  },
+  {
+    "id": "p139",
+    "label": "Ana Yemekler > Köfte",
+    "kind": "main",
+    "raw": "₺600",
+    "slug": null,
+    "dual": false,
+    "value": 600
+  },
+  {
+    "id": "p140",
+    "label": "Ana Yemekler > Tavuk Izgara",
+    "kind": "main",
+    "raw": "₺600",
+    "slug": null,
+    "dual": false,
+    "value": 600
+  },
+  {
+    "id": "p141",
+    "label": "Ana Yemekler > Köfte, Tavuk Karışık Izgara",
+    "kind": "main",
+    "raw": "₺900",
+    "slug": null,
+    "dual": false,
+    "value": 900
+  },
+  {
+    "id": "p142",
+    "label": "Başlangıçlar > Patates Kızartması > Baharatlı",
+    "kind": "option",
+    "raw": "₺320",
+    "slug": null,
+    "dual": false,
+    "value": 320
+  },
+  {
+    "id": "p143",
+    "label": "Başlangıçlar > Patates Kızartması > Parmesan & Taze Soğanlı",
+    "kind": "option",
+    "raw": "₺370",
+    "slug": null,
+    "dual": false,
+    "value": 370
+  },
+  {
+    "id": "p144",
+    "label": "Başlangıçlar > Patates Kızartması > Sade",
+    "kind": "option",
+    "raw": "₺310",
+    "slug": null,
+    "dual": false,
+    "value": 310
+  },
+  {
+    "id": "p145",
+    "label": "Mezeler > Peynir Söğüş Tabağı > 2 Kişilik",
+    "kind": "option",
+    "raw": "₺450",
+    "slug": null,
+    "dual": false,
+    "value": 450
+  },
+  {
+    "id": "p146",
+    "label": "Mezeler > Peynir Söğüş Tabağı > 4 Kişilik",
+    "kind": "option",
+    "raw": "₺850",
+    "slug": null,
+    "dual": false,
+    "value": 850
+  },
+  {
+    "id": "p147",
+    "label": "Rakılar > Yeni Rakı > 20 cl",
+    "kind": "rk",
+    "raw": "₺1.050",
+    "slug": null,
+    "dual": false,
+    "value": 1050
+  },
+  {
+    "id": "p148",
+    "label": "Rakılar > Yeni Rakı > 35 cl",
+    "kind": "rk",
+    "raw": "₺1.450",
+    "slug": null,
+    "dual": false,
+    "value": 1450
+  },
+  {
+    "id": "p149",
+    "label": "Rakılar > Yeni Rakı > 50 cl",
+    "kind": "rk",
+    "raw": "₺1.990",
+    "slug": null,
+    "dual": false,
+    "value": 1990
+  },
+  {
+    "id": "p150",
+    "label": "Rakılar > Yeni Rakı > 70 cl",
+    "kind": "rk",
+    "raw": "₺2.490",
+    "slug": null,
+    "dual": false,
+    "value": 2490
+  },
+  {
+    "id": "p151",
+    "label": "Rakılar > Yeni Rakı > 100 cl",
+    "kind": "rk",
+    "raw": "₺3.000",
+    "slug": null,
+    "dual": false,
+    "value": 3000
+  },
+  {
+    "id": "p152",
+    "label": "Rakılar > Tekirdağ Göbek > 20 cl",
+    "kind": "rk",
+    "raw": "₺1.300",
+    "slug": null,
+    "dual": false,
+    "value": 1300
+  },
+  {
+    "id": "p153",
+    "label": "Rakılar > Tekirdağ Göbek > 35 cl",
+    "kind": "rk",
+    "raw": "₺1.900",
+    "slug": null,
+    "dual": false,
+    "value": 1900
+  },
+  {
+    "id": "p154",
+    "label": "Rakılar > Tekirdağ Göbek > 50 cl",
+    "kind": "rk",
+    "raw": "₺2.600",
+    "slug": null,
+    "dual": false,
+    "value": 2600
+  },
+  {
+    "id": "p155",
+    "label": "Rakılar > Tekirdağ Göbek > 70 cl",
+    "kind": "rk",
+    "raw": "₺3.000",
+    "slug": null,
+    "dual": false,
+    "value": 3000
+  },
+  {
+    "id": "p156",
+    "label": "Rakılar > Tekirdağ Göbek > 100 cl",
+    "kind": "rk",
+    "raw": "₺3.600",
+    "slug": null,
+    "dual": false,
+    "value": 3600
+  },
+  {
+    "id": "p157",
+    "label": "Rakılar > Beylerbeyi Mavi > 20 cl",
+    "kind": "rk",
+    "raw": "₺1.300",
+    "slug": null,
+    "dual": false,
+    "value": 1300
+  },
+  {
+    "id": "p158",
+    "label": "Rakılar > Beylerbeyi Mavi > 35 cl",
+    "kind": "rk",
+    "raw": "₺1.900",
+    "slug": null,
+    "dual": false,
+    "value": 1900
+  },
+  {
+    "id": "p159",
+    "label": "Rakılar > Beylerbeyi Mavi > 50 cl",
+    "kind": "rk",
+    "raw": "₺2.600",
+    "slug": null,
+    "dual": false,
+    "value": 2600
+  },
+  {
+    "id": "p160",
+    "label": "Rakılar > Beylerbeyi Mavi > 70 cl",
+    "kind": "rk",
+    "raw": "₺3.000",
+    "slug": null,
+    "dual": false,
+    "value": 3000
+  },
+  {
+    "id": "p161",
+    "label": "Rakılar > Beylerbeyi Mavi > 100 cl",
+    "kind": "rk",
+    "raw": "₺3.600",
+    "slug": null,
+    "dual": false,
+    "value": 3600
+  },
+  {
+    "id": "p162",
+    "label": "Rakılar > Beylerbeyi Göbek > 20 cl",
+    "kind": "rk",
+    "raw": "₺1.600",
+    "slug": null,
+    "dual": false,
+    "value": 1600
+  },
+  {
+    "id": "p163",
+    "label": "Rakılar > Beylerbeyi Göbek > 35 cl",
+    "kind": "rk",
+    "raw": "₺2.000",
+    "slug": null,
+    "dual": false,
+    "value": 2000
+  },
+  {
+    "id": "p164",
+    "label": "Rakılar > Beylerbeyi Göbek > 50 cl",
+    "kind": "rk",
+    "raw": "₺2.500",
+    "slug": null,
+    "dual": false,
+    "value": 2500
+  },
+  {
+    "id": "p165",
+    "label": "Rakılar > Beylerbeyi Göbek > 70 cl",
+    "kind": "rk",
+    "raw": "₺3.000",
+    "slug": null,
+    "dual": false,
+    "value": 3000
+  },
+  {
+    "id": "p166",
+    "label": "Rakılar > Beylerbeyi Göbek > 100 cl",
+    "kind": "rk",
+    "raw": "₺4.000",
+    "slug": null,
+    "dual": false,
+    "value": 4000
+  },
+  {
+    "id": "p167",
+    "label": "Şefin Tadım Sofrası",
+    "kind": "set",
+    "raw": "₺2.750",
+    "slug": null,
+    "dual": false,
+    "value": 2750
+  },
+  {
+    "id": "p168",
+    "label": "Tadım Menüsü",
+    "kind": "set",
+    "raw": "₺2.000",
+    "slug": null,
+    "dual": false,
+    "value": 2000
+  }
+]

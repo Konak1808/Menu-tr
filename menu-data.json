@@ -15,7 +15,7 @@
     "raw": "₺1.900",
     "slug": null,
     "dual": false,
-    "value": 1900
+    "value": 2100
   },
   {
     "id": "p003",
@@ -24,7 +24,7 @@
     "raw": "₺1.990",
     "slug": null,
     "dual": false,
-    "value": 1990
+    "value": 2200
   },
   {
     "id": "p004",
@@ -78,7 +78,7 @@
     "raw": "₺510",
     "slug": "smash",
     "dual": false,
-    "value": 510
+    "value": 540
   },
   {
     "id": "p010",
@@ -87,7 +87,7 @@
     "raw": "₺620",
     "slug": "minitrio",
     "dual": false,
-    "value": 620
+    "value": 640
   },
   {
     "id": "p011",
@@ -96,7 +96,7 @@
     "raw": "₺530",
     "slug": "nachos",
     "dual": false,
-    "value": 530
+    "value": 540
   },
   {
     "id": "p012",
@@ -123,7 +123,7 @@
     "raw": "₺680",
     "slug": "kofte",
     "dual": false,
-    "value": 680
+    "value": 640
   },
   {
     "id": "p015",
@@ -132,7 +132,7 @@
     "raw": "₺540",
     "slug": "pizza",
     "dual": false,
-    "value": 540
+    "value": 590
   },
   {
     "id": "p016",
@@ -141,7 +141,7 @@
     "raw": "₺620",
     "slug": "pizzasark",
     "dual": false,
-    "value": 620
+    "value": 640
   },
   {
     "id": "p017",
@@ -177,7 +177,7 @@
     "raw": "₺620",
     "slug": null,
     "dual": false,
-    "value": 620
+    "value": 680
   },
   {
     "id": "p021",
@@ -195,7 +195,7 @@
     "raw": "₺360",
     "slug": "lotus",
     "dual": false,
-    "value": 360
+    "value": 380
   },
   {
     "id": "p023",
@@ -204,7 +204,7 @@
     "raw": "₺320",
     "slug": "muffin",
     "dual": false,
-    "value": 320
+    "value": 360
   },
   {
     "id": "p024",
@@ -468,7 +468,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300
+    "value": 330
   },
   {
     "id": "p053",
@@ -477,7 +477,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300
+    "value": 330
   },
   {
     "id": "p054",
@@ -486,7 +486,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300
+    "value": 330
   },
   {
     "id": "p055",
@@ -567,7 +567,7 @@
     "raw": "₺1.700",
     "slug": null,
     "dual": false,
-    "value": 1700
+    "value": 1800
   },
   {
     "id": "p064",
@@ -576,7 +576,7 @@
     "raw": "₺2.100",
     "slug": null,
     "dual": false,
-    "value": 2100
+    "value": 2200
   },
   {
     "id": "p065",
@@ -585,7 +585,7 @@
     "raw": "₺1.900",
     "slug": null,
     "dual": false,
-    "value": 1900
+    "value": 1990
   },
   {
     "id": "p066",
@@ -1536,6 +1536,6 @@
     "raw": "₺2.000",
     "slug": null,
     "dual": false,
-    "value": 2000
+    "value": 1990
   }
 ]

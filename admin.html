@@ -38,6 +38,11 @@
   .save-bar button{width:auto;padding:10px 22px}
   .save-status{font-size:13px;color:#6b5f47}
   .wrap{max-width:880px;margin:0 auto}
+  .site-title{
+    font-size:19px;font-weight:700;letter-spacing:1.5px;color:#2C2416;
+    margin:34px 0 4px;padding-bottom:8px;border-bottom:2px solid #2C2416;
+  }
+  .site-title:first-child{margin-top:0}
   .section-title{
     font-size:15px;font-weight:700;text-transform:uppercase;letter-spacing:1px;
     color:#9a6b2f;margin:26px 0 10px;
@@ -110,7 +115,7 @@
 
 <script>
 /* ============ AYARLAR ============ */
-const PANEL_PASSWORD = "konak1882admin"; // <-- BUNU DEĞİŞTİR
+const PANEL_PASSWORD = "konak1882"; // <-- BUNU DEĞİŞTİR
 const REPO_OWNER = "Konak1808";
 const REPO_NAME  = "Menu-tr";
 const REPO_BRANCH = "main";
@@ -190,20 +195,32 @@ function groupLabel(it){
   return it.label.split(' > ')[0] || 'Diğer';
 }
 
+const SITE_LABELS = { konak: 'KONAK 1882 · Resto & Bar', avlu: 'AVLU 1882 · Meyhane' };
+
 function renderItems(){
   const wrap = document.getElementById('itemsWrap');
   wrap.innerHTML = '';
-  const groups = {};
-  menuData.forEach(it => {
-    const g = groupLabel(it);
-    (groups[g] = groups[g] || []).push(it);
-  });
-  Object.keys(groups).forEach(g => {
-    const h = document.createElement('div');
-    h.className = 'section-title';
-    h.textContent = g;
-    wrap.appendChild(h);
-    groups[g].forEach(it => wrap.appendChild(renderRow(it)));
+  ['konak', 'avlu'].forEach(site => {
+    const siteItems = menuData.filter(it => (it.site || 'konak') === site);
+    if(siteItems.length === 0) return;
+
+    const siteHeader = document.createElement('div');
+    siteHeader.className = 'site-title';
+    siteHeader.textContent = SITE_LABELS[site];
+    wrap.appendChild(siteHeader);
+
+    const groups = {};
+    siteItems.forEach(it => {
+      const g = groupLabel(it);
+      (groups[g] = groups[g] || []).push(it);
+    });
+    Object.keys(groups).forEach(g => {
+      const h = document.createElement('div');
+      h.className = 'section-title';
+      h.textContent = g;
+      wrap.appendChild(h);
+      groups[g].forEach(it => wrap.appendChild(renderRow(it)));
+    });
   });
 }
 

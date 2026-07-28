@@ -16,7 +16,7 @@
     "raw": "₺1.900",
     "slug": null,
     "dual": false,
-    "value": 1900,
+    "value": 2100,
     "site": "konak"
   },
   {
@@ -26,7 +26,7 @@
     "raw": "₺1.990",
     "slug": null,
     "dual": false,
-    "value": 1990,
+    "value": 2200,
     "site": "konak"
   },
   {
@@ -46,7 +46,7 @@
     "raw": "₺250",
     "slug": null,
     "dual": false,
-    "value": 250,
+    "value": 275,
     "site": "konak"
   },
   {
@@ -86,7 +86,7 @@
     "raw": "₺510",
     "slug": "smash",
     "dual": false,
-    "value": 510,
+    "value": 560,
     "site": "konak"
   },
   {
@@ -96,7 +96,7 @@
     "raw": "₺620",
     "slug": "minitrio",
     "dual": false,
-    "value": 620,
+    "value": 680,
     "site": "konak"
   },
   {
@@ -146,7 +146,7 @@
     "raw": "₺540",
     "slug": "pizza",
     "dual": false,
-    "value": 540,
+    "value": 590,
     "site": "konak"
   },
   {
@@ -156,7 +156,7 @@
     "raw": "₺620",
     "slug": "pizzasark",
     "dual": false,
-    "value": 620,
+    "value": 680,
     "site": "konak"
   },
   {
@@ -196,7 +196,7 @@
     "raw": "₺620",
     "slug": null,
     "dual": false,
-    "value": 620,
+    "value": 680,
     "site": "konak"
   },
   {
@@ -216,7 +216,7 @@
     "raw": "₺360",
     "slug": "lotus",
     "dual": false,
-    "value": 360,
+    "value": 380,
     "site": "konak"
   },
   {
@@ -226,7 +226,7 @@
     "raw": "₺320",
     "slug": "muffin",
     "dual": false,
-    "value": 320,
+    "value": 380,
     "site": "konak"
   },
   {
@@ -509,7 +509,7 @@
     "raw": "₺75",
     "slug": null,
     "dual": false,
-    "value": 75,
+    "value": 95,
     "site": "konak"
   },
   {
@@ -519,7 +519,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300,
+    "value": 330,
     "site": "konak"
   },
   {
@@ -529,7 +529,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300,
+    "value": 330,
     "site": "konak"
   },
   {
@@ -539,7 +539,7 @@
     "raw": "₺300",
     "slug": null,
     "dual": false,
-    "value": 300,
+    "value": 330,
     "site": "konak"
   },
   {
@@ -549,7 +549,7 @@
     "raw": "₺350",
     "slug": null,
     "dual": false,
-    "value": 350,
+    "value": 360,
     "site": "konak"
   },
   {
@@ -559,7 +559,7 @@
     "raw": "₺350",
     "slug": null,
     "dual": false,
-    "value": 350,
+    "value": 370,
     "site": "konak"
   },
   {
@@ -579,7 +579,7 @@
     "raw": "₺350",
     "slug": null,
     "dual": false,
-    "value": 350,
+    "value": 360,
     "site": "konak"
   },
   {
@@ -589,7 +589,7 @@
     "raw": "₺380",
     "slug": null,
     "dual": false,
-    "value": 380,
+    "value": 390,
     "site": "konak"
   },
   {
@@ -599,7 +599,7 @@
     "raw": "₺460",
     "slug": null,
     "dual": false,
-    "value": 460,
+    "value": 490,
     "site": "konak"
   },
   {
@@ -609,7 +609,7 @@
     "raw": "₺560",
     "slug": null,
     "dual": false,
-    "value": 560,
+    "value": 590,
     "site": "konak"
   },
   {
@@ -629,7 +629,7 @@
     "raw": "₺1.700",
     "slug": null,
     "dual": false,
-    "value": 1700,
+    "value": 1900,
     "site": "konak"
   },
   {
@@ -1693,7 +1693,7 @@
     "raw": "₺2.750",
     "slug": null,
     "dual": false,
-    "value": 2750,
+    "value": 2500,
     "site": "avlu"
   },
   {
@@ -1703,7 +1703,7 @@
     "raw": "₺2.000",
     "slug": null,
     "dual": false,
-    "value": 2000,
+    "value": 1990,
     "site": "avlu"
   },
   {
@@ -1713,7 +1713,7 @@
     "raw": "₺380",
     "slug": null,
     "dual": false,
-    "value": 380,
+    "value": 350,
     "site": "konak"
   },
   {
@@ -1723,7 +1723,7 @@
     "raw": "₺380",
     "slug": null,
     "dual": false,
-    "value": 380,
+    "value": 420,
     "site": "konak"
   },
   {

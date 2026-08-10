@@ -66,7 +66,7 @@
     "raw": "₺590",
     "slug": "crispy",
     "dual": false,
-    "value": 590,
+    "value": 640,
     "site": "konak"
   },
   {
@@ -76,7 +76,7 @@
     "raw": "₺850",
     "slug": null,
     "dual": false,
-    "value": 850,
+    "value": 880,
     "site": "konak"
   },
   {
@@ -86,7 +86,7 @@
     "raw": "₺510",
     "slug": "smash",
     "dual": false,
-    "value": 560,
+    "value": 620,
     "site": "konak"
   },
   {
@@ -96,7 +96,7 @@
     "raw": "₺620",
     "slug": "minitrio",
     "dual": false,
-    "value": 680,
+    "value": 720,
     "site": "konak"
   },
   {
@@ -126,7 +126,7 @@
     "raw": "₺620",
     "slug": "tavukizg",
     "dual": false,
-    "value": 620,
+    "value": 660,
     "site": "konak"
   },
   {
@@ -136,7 +136,7 @@
     "raw": "₺680",
     "slug": "kofte",
     "dual": false,
-    "value": 680,
+    "value": 720,
     "site": "konak"
   },
   {
@@ -146,7 +146,7 @@
     "raw": "₺540",
     "slug": "pizza",
     "dual": false,
-    "value": 590,
+    "value": 650,
     "site": "konak"
   },
   {
@@ -156,7 +156,7 @@
     "raw": "₺620",
     "slug": "pizzasark",
     "dual": false,
-    "value": 680,
+    "value": 750,
     "site": "konak"
   },
   {
@@ -166,7 +166,7 @@
     "raw": "₺650",
     "slug": "linguine",
     "dual": false,
-    "value": 650,
+    "value": 690,
     "site": "konak"
   },
   {
@@ -176,7 +176,7 @@
     "raw": "₺670",
     "slug": "lazanya",
     "dual": false,
-    "value": 670,
+    "value": 760,
     "site": "konak"
   },
   {
@@ -186,7 +186,7 @@
     "raw": "₺660",
     "slug": null,
     "dual": false,
-    "value": 660,
+    "value": 720,
     "site": "konak"
   },
   {
@@ -196,7 +196,7 @@
     "raw": "₺620",
     "slug": null,
     "dual": false,
-    "value": 680,
+    "value": 740,
     "site": "konak"
   },
   {
@@ -1423,7 +1423,7 @@
     "raw": "₺320",
     "slug": null,
     "dual": false,
-    "value": 320,
+    "value": 350,
     "site": "konak"
   },
   {
@@ -1433,7 +1433,7 @@
     "raw": "₺370",
     "slug": null,
     "dual": false,
-    "value": 370,
+    "value": 390,
     "site": "konak"
   },
   {
@@ -1723,7 +1723,7 @@
     "raw": "₺460",
     "slug": null,
     "dual": false,
-    "value": 460,
+    "value": 550,
     "site": "konak"
   },
   {
@@ -1733,7 +1733,7 @@
     "raw": "₺650",
     "slug": null,
     "dual": false,
-    "value": 650,
+    "value": 900,
     "site": "kahvalti"
   },
   {
@@ -1743,7 +1743,7 @@
     "raw": "₺1450",
     "slug": null,
     "dual": false,
-    "value": 1450,
+    "value": 1800,
     "site": "kahvalti"
   },
   {
@@ -1753,7 +1753,7 @@
     "raw": "₺420",
     "slug": null,
     "dual": false,
-    "value": 420,
+    "value": 650,
     "site": "kahvalti"
   },
   {
@@ -1763,7 +1763,7 @@
     "raw": "₺480",
     "slug": null,
     "dual": false,
-    "value": 480,
+    "value": 700,
     "site": "kahvalti"
   },
   {
@@ -1773,7 +1773,7 @@
     "raw": "₺320",
     "slug": null,
     "dual": false,
-    "value": 320,
+    "value": 540,
     "site": "kahvalti"
   },
   {
@@ -1793,7 +1793,7 @@
     "raw": "₺280",
     "slug": null,
     "dual": false,
-    "value": 280,
+    "value": 350,
     "site": "kahvalti"
   },
   {
@@ -1803,7 +1803,7 @@
     "raw": "₺290",
     "slug": null,
     "dual": false,
-    "value": 290,
+    "value": 350,
     "site": "kahvalti"
   },
   {
@@ -1813,7 +1813,7 @@
     "raw": "₺240",
     "slug": null,
     "dual": false,
-    "value": 240,
+    "value": 390,
     "site": "kahvalti"
   },
   {
@@ -1823,7 +1823,7 @@
     "raw": "₺260",
     "slug": null,
     "dual": false,
-    "value": 260,
+    "value": 660,
     "site": "kahvalti"
   },
   {
@@ -1843,7 +1843,7 @@
     "raw": "₺320",
     "slug": null,
     "dual": false,
-    "value": 320,
+    "value": 420,
     "site": "kahvalti"
   },
   {
@@ -1853,7 +1853,7 @@
     "raw": "₺260",
     "slug": null,
     "dual": false,
-    "value": 260,
+    "value": 360,
     "site": "kahvalti"
   },
   {
@@ -1863,7 +1863,7 @@
     "raw": "₺280",
     "slug": null,
     "dual": false,
-    "value": 280,
+    "value": 440,
     "site": "kahvalti"
   },
   {
@@ -1873,7 +1873,7 @@
     "raw": "₺240",
     "slug": null,
     "dual": false,
-    "value": 240,
+    "value": 290,
     "site": "kahvalti"
   },
   {
@@ -1883,7 +1883,7 @@
     "raw": "₺240",
     "slug": null,
     "dual": false,
-    "value": 240,
+    "value": 290,
     "site": "kahvalti"
   },
   {
@@ -1893,7 +1893,7 @@
     "raw": "₺160",
     "slug": null,
     "dual": false,
-    "value": 160,
+    "value": 200,
     "site": "kahvalti"
   },
   {

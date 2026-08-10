@@ -121,7 +121,7 @@
   },
   {
     "id": "p013",
-    "label": "Izgara > Izgara Tavuk & Sebze Sote",
+    "label": "Ana Yemekler > Izgara Tavuk & Sebze Sote",
     "kind": "main",
     "raw": "₺620",
     "slug": "tavukizg",
@@ -131,7 +131,7 @@
   },
   {
     "id": "p014",
-    "label": "Izgara > Izgara Köfte & Sebze Sote",
+    "label": "Ana Yemekler > Izgara Köfte & Sebze Sote",
     "kind": "main",
     "raw": "₺680",
     "slug": "kofte",
@@ -237,16 +237,6 @@
     "slug": "brownie",
     "dual": false,
     "value": 300,
-    "site": "konak"
-  },
-  {
-    "id": "p025",
-    "label": "Tatlılar > Cookie",
-    "kind": "main",
-    "raw": "₺200",
-    "slug": "cookie",
-    "dual": false,
-    "value": 200,
     "site": "konak"
   },
   {
@@ -952,16 +942,6 @@
     "kind": "main",
     "raw": "₺770",
     "slug": "pornstar",
-    "dual": false,
-    "value": 770,
-    "site": "konak"
-  },
-  {
-    "id": "p094",
-    "label": "İçecekler > İmza Kokteyller > Mango-Chilli Tekila & Mezcal Margarita",
-    "kind": "main",
-    "raw": "₺770",
-    "slug": "mango_chilli_margarita",
     "dual": false,
     "value": 770,
     "site": "konak"
@@ -1744,6 +1724,256 @@
     "slug": null,
     "dual": false,
     "value": 460,
+    "site": "konak"
+  },
+  {
+    "id": "p173",
+    "label": "Kahvaltı > Serpme > Konak Serpme Kahvaltı (Kişi Başı)",
+    "kind": "main",
+    "raw": "₺650",
+    "slug": null,
+    "dual": false,
+    "value": 650,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p174",
+    "label": "Kahvaltı > Serpme > İki Kişilik Serpme",
+    "kind": "main",
+    "raw": "₺1450",
+    "slug": null,
+    "dual": false,
+    "value": 1450,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p175",
+    "label": "Kahvaltı > Tabaklar > Ayvalık Tabağı",
+    "kind": "main",
+    "raw": "₺420",
+    "slug": null,
+    "dual": false,
+    "value": 420,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p176",
+    "label": "Kahvaltı > Tabaklar > Şarküteri Kahvaltı Tabağı",
+    "kind": "main",
+    "raw": "₺480",
+    "slug": null,
+    "dual": false,
+    "value": 480,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p177",
+    "label": "Kahvaltı > Tabaklar > Mini Kahvaltı",
+    "kind": "main",
+    "raw": "₺320",
+    "slug": null,
+    "dual": false,
+    "value": 320,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p178",
+    "label": "Kahvaltı > Yumurtalar > Eggs Benedict",
+    "kind": "main",
+    "raw": "₺380",
+    "slug": null,
+    "dual": false,
+    "value": 380,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p179",
+    "label": "Kahvaltı > Yumurtalar > Menemen",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p180",
+    "label": "Kahvaltı > Yumurtalar > Zeytinyağlı Omlet",
+    "kind": "main",
+    "raw": "₺290",
+    "slug": null,
+    "dual": false,
+    "value": 290,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p181",
+    "label": "Kahvaltı > Yumurtalar > Kaşarlı Sahanda",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": null,
+    "dual": false,
+    "value": 240,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p182",
+    "label": "Kahvaltı > Fırından > Kruvasan Sepeti",
+    "kind": "main",
+    "raw": "₺260",
+    "slug": null,
+    "dual": false,
+    "value": 260,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p183",
+    "label": "Kahvaltı > Fırından > French Toast",
+    "kind": "main",
+    "raw": "₺340",
+    "slug": null,
+    "dual": false,
+    "value": 340,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p184",
+    "label": "Kahvaltı > Fırından > Pancake",
+    "kind": "main",
+    "raw": "₺320",
+    "slug": null,
+    "dual": false,
+    "value": 320,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p185",
+    "label": "Kahvaltı > Hafif & Taze > Granola & Yoğurt",
+    "kind": "main",
+    "raw": "₺260",
+    "slug": null,
+    "dual": false,
+    "value": 260,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p186",
+    "label": "Kahvaltı > Hafif & Taze > Ege Meyve Tabağı",
+    "kind": "main",
+    "raw": "₺280",
+    "slug": null,
+    "dual": false,
+    "value": 280,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p187",
+    "label": "Kahvaltı > İçecekler > Taze Sıkma Portakal Suyu",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": null,
+    "dual": false,
+    "value": 240,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p188",
+    "label": "Kahvaltı > İçecekler > Taze Sıkma Greyfurt Suyu",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": null,
+    "dual": false,
+    "value": 240,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p189",
+    "label": "Kahvaltı > İçecekler > Filtre Kahve",
+    "kind": "main",
+    "raw": "₺160",
+    "slug": null,
+    "dual": false,
+    "value": 160,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p190",
+    "label": "Kahvaltı > İçecekler > Türk Kahvesi",
+    "kind": "main",
+    "raw": "₺180",
+    "slug": null,
+    "dual": false,
+    "value": 180,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p191",
+    "label": "Kahvaltı > İçecekler > Çay",
+    "kind": "main",
+    "raw": "₺95",
+    "slug": null,
+    "dual": false,
+    "value": 95,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p192",
+    "label": "Makarna & Fırın > Üç Peynirli Pizza",
+    "kind": "main",
+    "raw": "₺720",
+    "slug": null,
+    "dual": false,
+    "value": 720,
+    "site": "konak"
+  },
+  {
+    "id": "p193",
+    "label": "Makarna & Fırın > Pizza Sucuk & Pastırma",
+    "kind": "main",
+    "raw": "₺780",
+    "slug": null,
+    "dual": false,
+    "value": 780,
+    "site": "konak"
+  },
+  {
+    "id": "p194",
+    "label": "Tatlılar > Profiterollü Pasta",
+    "kind": "main",
+    "raw": "₺460",
+    "slug": null,
+    "dual": false,
+    "value": 460,
+    "site": "konak"
+  },
+  {
+    "id": "p195",
+    "label": "Başlangıçlar > Patates Kızartması > Şefin Özel Patatesi",
+    "kind": "option",
+    "raw": "₺450",
+    "slug": null,
+    "dual": false,
+    "value": 450,
+    "site": "konak"
+  },
+  {
+    "id": "p196",
+    "label": "İçecekler > İmza Kokteyller > Bartender's Choice",
+    "kind": "main",
+    "raw": "₺850",
+    "slug": null,
+    "dual": false,
+    "value": 850,
+    "site": "konak"
+  },
+  {
+    "id": "p197",
+    "label": "Ana Yemekler > Viyana Şnitzel",
+    "kind": "main",
+    "raw": "₺790",
+    "slug": null,
+    "dual": false,
+    "value": 790,
     "site": "konak"
   }
 ]

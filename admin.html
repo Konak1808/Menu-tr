@@ -195,12 +195,12 @@ function groupLabel(it){
   return it.label.split(' > ')[0] || 'Diğer';
 }
 
-const SITE_LABELS = { konak: 'KONAK 1882 · Resto & Bar', avlu: 'AVLU 1882 · Meyhane' };
+const SITE_LABELS = { konak: 'KONAK 1882 · Resto & Bar', avlu: 'AVLU 1882 · Meyhane', kahvalti: 'KAHVALTI · Güne Başlarken' };
 
 function renderItems(){
   const wrap = document.getElementById('itemsWrap');
   wrap.innerHTML = '';
-  ['konak', 'avlu'].forEach(site => {
+  ['konak', 'avlu', 'kahvalti'].forEach(site => {
     const siteItems = menuData.filter(it => (it.site || 'konak') === site);
     if(siteItems.length === 0) return;
 

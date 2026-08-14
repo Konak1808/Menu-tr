@@ -76,7 +76,7 @@
     "raw": "₺850",
     "slug": null,
     "dual": false,
-    "value": 880,
+    "value": 920,
     "site": "konak"
   },
   {
@@ -86,7 +86,7 @@
     "raw": "₺510",
     "slug": "smash",
     "dual": false,
-    "value": 620,
+    "value": 690,
     "site": "konak"
   },
   {
@@ -96,7 +96,7 @@
     "raw": "₺620",
     "slug": "minitrio",
     "dual": false,
-    "value": 720,
+    "value": 790,
     "site": "konak"
   },
   {
@@ -106,7 +106,7 @@
     "raw": "₺530",
     "slug": "nachos",
     "dual": false,
-    "value": 530,
+    "value": 580,
     "site": "konak"
   },
   {
@@ -116,7 +116,7 @@
     "raw": "₺420",
     "slug": null,
     "dual": false,
-    "value": 420,
+    "value": 480,
     "site": "konak"
   },
   {
@@ -126,7 +126,7 @@
     "raw": "₺620",
     "slug": "tavukizg",
     "dual": false,
-    "value": 660,
+    "value": 720,
     "site": "konak"
   },
   {
@@ -136,7 +136,7 @@
     "raw": "₺680",
     "slug": "kofte",
     "dual": false,
-    "value": 720,
+    "value": 780,
     "site": "konak"
   },
   {
@@ -146,7 +146,7 @@
     "raw": "₺540",
     "slug": "pizza",
     "dual": false,
-    "value": 650,
+    "value": 700,
     "site": "konak"
   },
   {
@@ -156,7 +156,7 @@
     "raw": "₺620",
     "slug": "pizzasark",
     "dual": false,
-    "value": 750,
+    "value": 820,
     "site": "konak"
   },
   {
@@ -196,7 +196,7 @@
     "raw": "₺620",
     "slug": null,
     "dual": false,
-    "value": 740,
+    "value": 790,
     "site": "konak"
   },
   {
@@ -1380,7 +1380,7 @@
     "raw": "₺600",
     "slug": null,
     "dual": false,
-    "value": 600,
+    "value": 780,
     "site": "avlu"
   },
   {
@@ -1390,7 +1390,7 @@
     "raw": "₺600",
     "slug": null,
     "dual": false,
-    "value": 600,
+    "value": 720,
     "site": "avlu"
   },
   {
@@ -1400,7 +1400,7 @@
     "raw": "₺900",
     "slug": null,
     "dual": false,
-    "value": 900,
+    "value": 1100,
     "site": "avlu"
   },
   {
@@ -1910,7 +1910,7 @@
     "raw": "₺720",
     "slug": null,
     "dual": false,
-    "value": 720,
+    "value": 770,
     "site": "konak"
   },
   {
@@ -1920,7 +1920,7 @@
     "raw": "₺780",
     "slug": null,
     "dual": false,
-    "value": 780,
+    "value": 880,
     "site": "konak"
   },
   {
@@ -1970,7 +1970,7 @@
     "raw": "₺380",
     "slug": null,
     "dual": false,
-    "value": 380,
+    "value": 420,
     "site": "konak"
   },
   {
@@ -2089,7 +2089,7 @@
     "raw": "₺400",
     "slug": null,
     "dual": false,
-    "value": 400,
+    "value": 380,
     "site": "konak"
   }
 ]

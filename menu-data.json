@@ -715,19 +715,6 @@
     "site": "konak"
   },
   {
-    "id": "p072",
-    "label": "İçecekler > Illusionist",
-    "kind": "main",
-    "raw": "₺700 / ₺1.000",
-    "slug": null,
-    "dual": true,
-    "values": [
-      700,
-      1000
-    ],
-    "site": "konak"
-  },
-  {
     "id": "p073",
     "label": "İçecekler > Beefeater Pink Gin",
     "kind": "main",
@@ -1758,7 +1745,7 @@
   },
   {
     "id": "p176",
-    "label": "Kahvaltı > Tabaklar > Şarküteri Kahvaltı Tabağı",
+    "label": "Kahvaltı > Tabaklar > Pişi Tabağı",
     "kind": "main",
     "raw": "₺480",
     "slug": null,
@@ -1778,7 +1765,7 @@
   },
   {
     "id": "p178",
-    "label": "Kahvaltı > Yumurtalar > Eggs Benedict",
+    "label": "Kahvaltı > Yumurtalar > Ada Peynirli Otlu Omlet",
     "kind": "main",
     "raw": "₺380",
     "slug": null,
@@ -1828,7 +1815,7 @@
   },
   {
     "id": "p183",
-    "label": "Kahvaltı > Fırından > French Toast",
+    "label": "Kahvaltı > Fırından > Ada Tostu",
     "kind": "main",
     "raw": "₺340",
     "slug": null,
@@ -1963,7 +1950,7 @@
     "raw": "₺850",
     "slug": null,
     "dual": false,
-    "value": 850,
+    "value": 950,
     "site": "konak"
   },
   {
@@ -1974,6 +1961,135 @@
     "slug": null,
     "dual": false,
     "value": 790,
+    "site": "konak"
+  },
+  {
+    "id": "p198",
+    "label": "İçecekler > Biralar > Corona 33cl",
+    "kind": "main",
+    "raw": "₺380",
+    "slug": null,
+    "dual": false,
+    "value": 380,
+    "site": "konak"
+  },
+  {
+    "id": "p199",
+    "label": "İçecekler > Mezcal > Ojo De Tigre Mezcal Joven",
+    "kind": "main",
+    "raw": "₺500 / ₺700",
+    "slug": null,
+    "dual": true,
+    "values": [
+      500,
+      700
+    ],
+    "site": "konak"
+  },
+  {
+    "id": "p200",
+    "label": "İçecekler > Mezcal > Ojo De Tigre Mezcal Reposado",
+    "kind": "main",
+    "raw": "₺550 / ₺750",
+    "slug": null,
+    "dual": true,
+    "values": [
+      550,
+      750
+    ],
+    "site": "konak"
+  },
+  {
+    "id": "p201",
+    "label": "İçecekler > İmza Kokteyller > Mezcalita",
+    "kind": "main",
+    "raw": "₺780",
+    "slug": null,
+    "dual": false,
+    "value": 780,
+    "site": "konak"
+  },
+  {
+    "id": "p202",
+    "label": "İçecekler > Viski > Singleton 12",
+    "kind": "main",
+    "raw": "₺750",
+    "slug": null,
+    "dual": false,
+    "value": 750,
+    "site": "konak"
+  },
+  {
+    "id": "p203",
+    "label": "İçecekler > Viski > Jameson Black Barrel",
+    "kind": "main",
+    "raw": "₺600 / ₺870",
+    "slug": null,
+    "dual": true,
+    "values": [
+      600,
+      870
+    ],
+    "site": "konak"
+  },
+  {
+    "id": "p204",
+    "label": "İçecekler > Viski > Pike Creek Canadian Whisky",
+    "kind": "main",
+    "raw": "₺650",
+    "slug": null,
+    "dual": false,
+    "value": 650,
+    "site": "konak"
+  },
+  {
+    "id": "p205",
+    "label": "İçecekler > Sıcak İçecekler > White Mocha",
+    "kind": "main",
+    "raw": "₺270",
+    "slug": null,
+    "dual": false,
+    "value": 270,
+    "site": "konak"
+  },
+  {
+    "id": "p206",
+    "label": "Kahvaltı > İçecekler > Americano",
+    "kind": "main",
+    "raw": "₺230",
+    "slug": null,
+    "dual": false,
+    "value": 230,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p207",
+    "label": "Kahvaltı > İçecekler > Latte",
+    "kind": "main",
+    "raw": "₺250",
+    "slug": null,
+    "dual": false,
+    "value": 250,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p208",
+    "label": "Kahvaltı > İçecekler > Cappuccino",
+    "kind": "main",
+    "raw": "₺240",
+    "slug": null,
+    "dual": false,
+    "value": 240,
+    "site": "kahvalti"
+  },
+  {
+    "id": "p209",
+    "label": "Tatlılar > Profiterol",
+    "kind": "main",
+    "raw": "₺400",
+    "slug": null,
+    "dual": false,
+    "value": 400,
     "site": "konak"
   }
 ]
